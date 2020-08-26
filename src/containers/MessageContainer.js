@@ -11,7 +11,7 @@ class MessageContainer extends Component {
         );
     }
 }
-
+// Check 123
 MessageContainer.propTypes={
     message:PropTypes.string.isRequired
 }
